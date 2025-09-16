@@ -1,5 +1,5 @@
 import * as React from "react";
-import { Github, MessagesSquare } from "lucide-react";
+import {MessagesSquare } from "lucide-react";
 import Link from "next/link";
 import {
   Sidebar,
@@ -34,7 +34,7 @@ export function ThreadListSidebar({
                   
                   <div className="aui-sidebar-header-heading mr-6 flex flex-col gap-0.5 leading-none">
                     <span className="aui-sidebar-header-title font-semibold">
-                      Satyam's AI
+                      Satyam&apos;s AI
                     </span>
                   </div>
                 </Link>
